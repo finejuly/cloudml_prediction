@@ -13,5 +13,10 @@ requirements (not sure everything below is mandatory):
 
 		pip install google-auth-httplib2	
 
+
+Also, make sure you have valid credential keys by using the following command.
+	export GOOGLE_APPLICATION_CREDENTIALS='your_credentials_.json'
+
+
 Il-Young Jeong
 iyjeong@cochlear.ai
